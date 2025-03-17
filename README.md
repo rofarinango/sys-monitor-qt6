@@ -2,6 +2,8 @@
 
 A system monitoring application built with Qt6, providing real-time information about system resources and processes.
 
+![System Monitor Screenshot](./images/sc-sys-monitor.png)
+
 ## Features
 
 - Real-time CPU usage monitoring
